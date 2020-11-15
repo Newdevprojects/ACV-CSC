@@ -1,7 +1,7 @@
 table {
-    max-width: 540px;
+    max-width: 400px;
     /* border: 5px solid; --- pour la bordure extérieure lorsque 'rules' est spécifié*/
-    border-color: brown;
+    border: 2px brown solid;
 }
 
 th, td {
