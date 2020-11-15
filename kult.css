@@ -48,9 +48,9 @@ html, button, input, select, textarea {
 }
 
 html, body, button, input, select, textarea {
-    color: #5753    4A;
+    color: #57534A;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
 	font-weight: 300;
 }
 
@@ -82,7 +82,7 @@ body {
 
 
 h1, h2, h3, dt {
-    color: #423F37;
+    color: #8db359;
     font-weight: 700;
 }
 
