@@ -1,0 +1,31 @@
+table {
+    max-width: 540px;
+    /* border: 5px solid; --- pour la bordure extérieure lorsque 'rules' est spécifié*/
+    border-color: brown;
+}
+
+th, td {
+    padding: 5px;
+}
+
+th {
+    background-color: khaki;
+    color: brown;
+    font-size: 1.5em;
+}
+
+tfoot th {
+    font-size: 1.2em;
+    color: black;
+}
+
+td {
+    min-width: 50px;
+}
+
+tr td:nth-child(1) {
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+    background-color: #dddddd;
+}
