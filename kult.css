@@ -48,9 +48,9 @@ html, button, input, select, textarea {
 }
 
 html, body, button, input, select, textarea {
-    color: #57534A;
-    font-family: "Ubuntu","Myriad Pro","Myriad",sans-serif;
-    font-size: 18px;
+    color: #5753    4A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 	font-weight: 300;
 }
 
@@ -114,6 +114,7 @@ h6 {
 
 a {
     color: #8DB359;
+    font-weight: bold;
     cursor: pointer;
     outline: 0 none;
     text-decoration: underline;
