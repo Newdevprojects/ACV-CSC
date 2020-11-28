@@ -21,7 +21,7 @@
 | &nbsp; | &nbsp; | &nbsp; |
 | :--- | :--- | :--- |
 | Statut syndical /<br>Syndicaal statuut | Loi/Wet [12.19.1974](L_19741219.pdf) ![](pdf.png) | AR/KB [28.09.1984](AR19840928.pdf) ![](pdf.png) | 
-| Formation /<br>Opleiding | [Catalogue CSC-SP](Formations_2021.pdf) ![](pdf.png) | &nbsp; | 
+| Formation /<br>Opleiding | [Catalogue 2021](Formations_2021.pdf) ![](pdf.png) | 17.11.2020 | 
 
 
 
