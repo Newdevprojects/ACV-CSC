@@ -7,7 +7,10 @@
 
 &nbsp;
 
-![](Logo_CSC-SP.png) ![](Logo_ACV-OD.png)
+| &nbsp; | &nbsp; |
+| --- | --- |
+| ![](Logo_CSC-SP.png) | https://www.lacsc.be/csc-services-publics |
+| ![](Logo_ACV-OD.png) | https://www.hetacv.be/acv-openbare-diensten |
 
 ## Réunions / Vergaderingen
 
