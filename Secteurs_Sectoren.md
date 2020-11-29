@@ -55,5 +55,5 @@ K.M.O., Middenstand en Energie
 | XVI. | Région wallonne | &nbsp; |
 | XVII. | Communauté Wallone-Bruxelles | &nbsp; | 
 | XVIII. | &nbsp; | Vlaamse Gemeenschap en Vlaams Gewest |
-| XIX. | Communauté germanophone / Deutsprachige Gemeinschaft | Duitstalige Gemeenschap / Deutsprachige Gemeinschaft |
+| XIX. | Communauté germanophone / Deutschsprachige Gemeinschaft | Duitstalige Gemeenschap / Deutschsprachige Gemeinschaft |
 | XX. | Institutions Publiques de Sécurité Sociale | Openbare Instellingen van Sociale Zekerheid |
