@@ -3,7 +3,7 @@
 
 # Note de Politique Générale (Fonction Publique
 
-## Demande de commentaires
+## Demande de contributions
 
 **De:** François Brasseur  
 **Date:** Mer 18/11/2020 15:51  
