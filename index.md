@@ -15,6 +15,7 @@
 | :--- | :---: | :--- |
 | Hilde | [![](Hilde_small.png)](Hilde.jpg) | [afscheid](afscheid.pdf) ![](pdf.png) |
 | Comité commun / Groepscomité | [13.02.2020](20200213.md) | [PV (projet)](20200213_PV_CCommun_REV2.docx) ![](word.jpg) |
+| Note de politique / Beleidsnota | [e-mail 18.11.2020](20201118_NPG_Fx-Publique_Demande_commentaires.md) | [input R. Dumoulin](NPG_NotesRD.md) | 
 
 ## Thèmes / Thema's
 
