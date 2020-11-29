@@ -1,23 +1,37 @@
 <link rel="stylesheet" href="kult.css">
-<link rel="stylesheet" href="table2.css"
+<link rel="stylesheet" href="table2.css">
 
 &nbsp;
 
 # Secteur IV / Sector IV
 
-* SPF &Eacute;conomie, P.M.E., Classes moyennes et &Eacute;nergie<br>FOD Economie,
+* [SPF &Eacute;conomie](https://economie.fgov.be/fr), P.M.E., Classes moyennes et &Eacute;nergie<br>[FOD Economie](https://economie.fgov.be/nl),
 K.M.O., Middenstand en Energie
+    * ![](SPF_Economie.png) 
 * SPP Politique scientifique<br>POD Wetenschapsbeleid
-* Bureau fédéral du Plan<br>Federaal Planbureau
-* Banc d'épreuve des armes à feu<br>Proefbank voor Vuurwapens
+    * https://www.belspo.be ![](Belspo.gif)
+* Bureau fédéral du [Plan](https://www.plan.be/index.php?lang=fr)<br>Federaal [Planbureau](https://www.plan.be/index.php?lang=nl)
+    * ![](Plan.png)
+* [Banc d'épreuve](https://www.bancdepreuves.be/fr/banc-d--039-epreuves-des-armes-a-feu) des armes à feu<br>[Proefbank](https://www.bancdepreuves.be/nl/proefbank-voor-vuurwapens) voor Vuurwapens
 * Conseil central de l'Economie<br>Centrale Raad voor het Bedrijfsleven
+    * ![](CCE.png) - [CCE](https://www.ccecrb.fgov.be/c/fr/22/presentation) / [CRB](https://www.ccecrb.fgov.be/c/nl/22/voorstelling)
 * Organisme national des Déchets radioactifs et des Matières fissiles enrichies<br> Nationale Instelling voor Radioactief Afval en Verrijkte Splijtstoffen
+    * ![](ondraf_niras.png) - [ONDRAF](https://www.ondraf.be/) - [NIRAS](https://www.niras.be/)
 * Commission de Régulation de l'&Eacute;lectricité et du Gaz<br> Commissie voor de Regulering van de Elektriciteit en het Gas
+    * https://www.creg.be/fr / https://www.creg.be/nl
+    * ![](CREG.png)
 * Conseil supérieur des Indépendants et des Petites et Moyennes Entreprises<br>Hoge Raad voor de Zelfstandigen en de Kleine en Middelgrote Ondernemingen
-* Bureau de Normalisation<br>Bureau voor Normalisatie
+    * [CSIPME](https://www.csipme.fgov.be/) / [HRZKMO](https://www.hrzkmo.fgov.be/)
+* [Bureau de Normalisation](https://www.nbn.be/fr)<br>[Bureau voor Normalisatie](https://www.nbn.be/nl)
+    * ![](nbn.jpg)
 * APETRA
+    * https://www.apetra.be/fr / https://www.apetra.be/nl
+    * ![](APETRA.png)
 * Service de médiation pour l'énergie <br>Ombudsdienst voor energie
-* Autorité belge de la Concurrence<br>Belgische Mededingingsautoriteit
+    * https://www.mediateurenergie.be/fr / https://www.ombudsmanenergie.be/nl
+    * ![](Ombudsman.jpg)
+* [Autorité belge de la Concurrence](https://www.abc-bma.be/fr)<br>[Belgische Mededingingsautoriteit](https://www.abc-bma.be/nl)
+    * ![](abcbma.png)
 
 ## Tous les Secteurs / Alle Sectoren
 
