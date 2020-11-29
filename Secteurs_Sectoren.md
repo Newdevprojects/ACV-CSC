@@ -8,8 +8,8 @@
 * [SPF &Eacute;conomie](https://economie.fgov.be/fr), P.M.E., Classes moyennes et &Eacute;nergie<br>[FOD Economie](https://economie.fgov.be/nl),
 K.M.O., Middenstand en Energie
     * ![](SPF_Economie.png) 
-* SPP Politique scientifique<br>POD Wetenschapsbeleid
-    * https://www.belspo.be ![](Belspo.gif)
+* [SPP Politique scientifique](https://www.belspo.be/belspo/index_fr.stm)<br>[POD Wetenschapsbeleid](https://www.belspo.be/belspo/index_nl.stm)
+    * ![](Belspo.gif)
 * Bureau fédéral du [Plan](https://www.plan.be/index.php?lang=fr)<br>Federaal [Planbureau](https://www.plan.be/index.php?lang=nl)
     * ![](Plan.png)
 * [Banc d'épreuve](https://www.bancdepreuves.be/fr/banc-d--039-epreuves-des-armes-a-feu) des armes à feu<br>[Proefbank](https://www.bancdepreuves.be/nl/proefbank-voor-vuurwapens) voor Vuurwapens
@@ -18,17 +18,17 @@ K.M.O., Middenstand en Energie
 * Organisme national des Déchets radioactifs et des Matières fissiles enrichies<br> Nationale Instelling voor Radioactief Afval en Verrijkte Splijtstoffen
     * ![](ondraf_niras.png) - [ONDRAF](https://www.ondraf.be/) - [NIRAS](https://www.niras.be/)
 * Commission de Régulation de l'&Eacute;lectricité et du Gaz<br> Commissie voor de Regulering van de Elektriciteit en het Gas
-    * https://www.creg.be/fr / https://www.creg.be/nl
+    * [https://www.creg.be/fr](https://www.creg.be/fr) / [https://www.creg.be/nl](https://www.creg.be/nl)
     * ![](CREG.png)
 * Conseil supérieur des Indépendants et des Petites et Moyennes Entreprises<br>Hoge Raad voor de Zelfstandigen en de Kleine en Middelgrote Ondernemingen
     * [CSIPME](https://www.csipme.fgov.be/) / [HRZKMO](https://www.hrzkmo.fgov.be/)
 * [Bureau de Normalisation](https://www.nbn.be/fr)<br>[Bureau voor Normalisatie](https://www.nbn.be/nl)
     * ![](nbn.jpg)
 * APETRA
-    * https://www.apetra.be/fr / https://www.apetra.be/nl
+    * [https://www.apetra.be/fr](https://www.apetra.be/fr) / [https://www.apetra.be/nl](https://www.apetra.be/nl)
     * ![](APETRA.png)
 * Service de médiation pour l'énergie <br>Ombudsdienst voor energie
-    * https://www.mediateurenergie.be/fr / https://www.ombudsmanenergie.be/nl
+    * [https://www.mediateurenergie.be/fr](https://www.mediateurenergie.be/fr) / [https://www.ombudsmanenergie.be/nl](https://www.ombudsmanenergie.be/nl)
     * ![](Ombudsman.jpg)
 * [Autorité belge de la Concurrence](https://www.abc-bma.be/fr)<br>[Belgische Mededingingsautoriteit](https://www.abc-bma.be/nl)
     * ![](abcbma.png)
