@@ -11,6 +11,7 @@
 | --- | --- |
 | ![](Logo_CSC-SP.png) | [https://www.lacsc.be/csc-services-publics](https://www.lacsc.be/csc-services-publics) |
 | ![](Logo_ACV-OD.png) | [https://www.hetacv.be/acv-openbare-diensten](https://www.hetacv.be/acv-openbare-diensten) |
+| &nbsp; | [Secteurs / Sectoren](Secteurs_Sectoren.md) |
 
 ## Réunions / Vergaderingen
 
