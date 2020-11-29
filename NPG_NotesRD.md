@@ -30,7 +30,7 @@
 
 | &nbsp; | &agrave; retenir |
 | --- | --- |
-| leviers prioritaires pour la Ministre | <ul><li>&#9312; simplification</li><li>&#9313; numérisation</li><li>&#9314; travail faisable <font color="crimson">&#10502; &middot;1&middot;</font></li><li>&#9315; concertation syndicale</li></ul> |
+| leviers prioritaires pour la Ministre | &#9312; simplification<br>&#9313; numérisation<br>&#9314; travail faisable <font color="crimson">&#10502; &middot;1&middot;</font><br>&#9315; concertation syndicale |
 
 <u>Commentaires :</u>  
 
@@ -42,10 +42,10 @@
 
 | &nbsp; | &agrave; retenir |
 | :--- | --- |
-| &#9312; simplification | <ul><li>only once<br>(via "*cartographie des services physiques attendus que l’on devra fournir aux citoyens*") (4/30)</li><li>révision de la loi sur les marchés publics (4/30 et 5/30)</li></u> |
-| &#9313; numérisation | <ul><li>chatbots (4/30)</li><li>eBox (4/30)</li><li>open data<br>(comptabilité, budget, RH) (5/30)</li></ul> |
-| &#9314; travail faisable | <ul><li>autonomisation Managers<br>révision contrat d'administration (5/30) <font color="crimson">&#10502; &middot;2&middot;</font></li><li>plans de personnels plus qualitatifs (5/30) <font color="crimson">&#10502; &middot;3&middot;</font></li><li> réduction des mètres carrés de surface de bureau grâce au télétravail (5/30 et 9/30)</li><li>Federal Innovation Awards annuels (5/30) <font color="crimson">&#10502; &middot;4&middot;</font></li><li>répertoire des compétences numériques des fonctionnaires (8/30) <font color="crimson">&#10502; &middot;5&middot;</font></li></ul> |
-| &#9315; concertation syndicale | <ul><li>statut du lanceur d'alerte (Dir. CE/2019/1937) (6/30)</li><li>flou et interprétation *a contrario* possible &#10503; OK avec les inquiétudes exprimées dans la [lettre de la CGSP](Lettre_CGSP_20201110.pdf)</li></ul> |
+| &#9312; simplification | &#10041; only once<br>(via "*cartographie des services physiques attendus que l’on devra fournir aux citoyens*") (4/30)<br>révision de la loi sur les marchés publics (4/30 et 5/30) |
+| &#9313; numérisation | &#10041; chatbots (4/30)<br>&#10041; eBox (4/30)<br>&#10041; open data<br>(comptabilité, budget, RH) (5/30)</li></ul> |
+| &#9314; travail faisable | &#10041; autonomisation Managers<br>révision contrat d'administration (5/30) <font color="crimson">&#10502; &middot;2&middot;</font><br>&#10041; plans de personnels plus qualitatifs (5/30) <font color="crimson">&#10502; &middot;3&middot;</font><br>&#10041;  réduction des mètres carrés de surface de bureau grâce au télétravail (5/30 et 9/30)<br>&#10041; Federal Innovation Awards annuels (5/30) <font color="crimson">&#10502; &middot;4&middot;</font><br>&#10041; répertoire des compétences numériques des fonctionnaires (8/30) <font color="crimson">&#10502; &middot;5&middot;</font> |
+| &#9315; concertation syndicale | &#10041; statut du lanceur d'alerte (Dir. CE/2019/1937) (6/30)<br>&#10041; flou et interprétation *a contrario* possible &#10503; OK avec les inquiétudes exprimées dans la [lettre de la CGSP](Lettre_CGSP_20201110.pdf) |
 
 <u>Commentaires :</u>  
 
