@@ -1,4 +1,9 @@
-## NPG Fx Publique - Demande de commentaires
+<link rel="stylesheet" href="kult.css">
+<link rel="stylesheet" href="table2.css">
+
+# Note de Politique Générale (Fonction Publique
+
+## Demande de commentaires
 
 **De:** François Brasseur  
 **Date:** Mer 18/11/2020 15:51  
