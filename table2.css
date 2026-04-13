@@ -1,4 +1,5 @@
 table {
+    display: block;
     border: 2px brown solid;
     margin-left: auto;
     margin-right: auto;
