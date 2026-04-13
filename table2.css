@@ -18,10 +18,6 @@ tfoot th {
     color: black;
 }
 
-td {
-    min-width: 140px;
-}
-
 tr td:nth-child(1) {
     text-align: center;
     color: brown;
