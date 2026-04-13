@@ -1,5 +1,5 @@
 table {
-    max-width: 436px;
+    max-width: 80%;
     /* border: 5px solid; --- pour la bordure extérieure lorsque 'rules' est spécifié*/
     border: 2px brown solid;
 }
