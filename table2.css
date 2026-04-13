@@ -1,7 +1,7 @@
 table {
-    width: auto;
-    /* border: 5px solid; --- pour la bordure extérieure lorsque 'rules' est spécifié*/
     border: 2px brown solid;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 th, td {
